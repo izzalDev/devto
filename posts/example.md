@@ -6,10 +6,9 @@ tags: 'productivity, beginners, test'
 cover_image: ./assets/cat.jpg
 canonical_url: null
 ---
-
 Some random text with a [link](https://code.visualstudio.com).
 
-## Serious title
+## Serious title edited
 
 Add some text here and there!
 
